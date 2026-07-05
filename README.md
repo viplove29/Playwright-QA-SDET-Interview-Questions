@@ -1,4 +1,4 @@
-# 🚀 Top 10 Real Playwright Interview Questions & Answers
+#  Top 10 Real Playwright Interview Questions & Answers
 ## QA & SDET Interview Preparation (2026)
 
 These are some of the most frequently asked **real-world Playwright interview questions** for QA Automation Engineers and SDETs. The focus is on scenario-based questions rather than basic definitions.
